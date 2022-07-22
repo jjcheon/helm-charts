@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  mychart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-07-22T13:55:03.881249025+09:00"
+    description: A Helm chart for Kubernetes
+    digest: f5c6db3dfadb59993bbd67ae9ca8c6dbd6ab7e293399857df7a51236f5f12a69
+    name: mychart
+    type: application
+    urls:
+    - mychart-0.1.0.tgz
+    version: 0.1.0
+  mychart2:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-07-22T13:55:03.881780284+09:00"
+    description: A Helm chart for Kubernetes
+    digest: 1538d0e2716f94f4242bf0bac9263bbacbb468c214748c357c5607b2e9e140a4
+    name: mychart2
+    type: application
+    urls:
+    - mychart2-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-07-22T13:55:03.880497592+09:00"
